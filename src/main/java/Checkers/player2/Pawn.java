@@ -1,4 +1,4 @@
-package GraWarcaby.gracz2;
+package Checkers.player2;
 
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;

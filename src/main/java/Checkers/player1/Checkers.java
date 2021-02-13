@@ -1,4 +1,4 @@
-package GraWarcaby.gracz1;
+package Checkers.player1;
 
 //Jest to główna klasa dla Aplikacji. Ma za zadanie wywołanie konstruktorów innych klas, które odpowiadają za rozgrywkę po stronie Gracza 1
 //Wywołuje konstruktor klasy Plansza, który posiada całą logike gry. Klasa plansza odpowiada za bicia, poruszanie się pionków.

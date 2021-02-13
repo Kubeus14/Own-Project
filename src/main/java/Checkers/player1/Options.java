@@ -1,4 +1,4 @@
-package GraWarcaby.gracz2;
+package Checkers.player1;
 
 import java.awt.Color;
 import java.awt.Font;
@@ -185,7 +185,3 @@ public class Options extends JFrame implements ActionListener {
     }
 
 }
-
-
-
-
